@@ -5,18 +5,6 @@
 - Find and understand a new dataset or use the model from the previous project.
 - Integrate it into Render using a Streamlit based application.
 
-## 🌱  How to start this project
-
-Follow the instructions below:
-
-1. Create a new repository based on [machine learning project](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) by [clicking here](https://github.com/4GeeksAcademy/machine-learning-python-template).
-2. Open the newly created repository in Codespace using the [Codespace button extension](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
-3. Once the Codespace VSCode has finished opening, start your project by following the instructions below.
-
-## 🚛 How to deliver this project
-
-Once you have finished solving the exercises, be sure to commit your changes, push to your repository and go to 4Geeks.com to upload the repository link.
-
 ## 📝 Instructions
 
 ### Step 1: Train a new model or choose the one from the previous project.
