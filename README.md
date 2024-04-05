@@ -1,5 +1,5 @@
 <!-- hide -->
-# Integration of a ML model in Render using Streamlit - Step by step guide
+# Integration of a ML model in Render using Streamlit 
 <!-- endhide -->
 
 - Find and understand a new dataset or use the model from the previous project.
