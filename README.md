@@ -1,4 +1,4 @@
-# Mushroom Classification Predictor
+# Mushroom Classification Predictor Using Render/Streamlit
 
 This project uses machine learning to classify mushrooms as edible or poisonous based on physical characteristics. The model trained is a Decision Tree Classifier, which provides clear visualizations for understanding the decision-making process.
 
@@ -34,6 +34,7 @@ To run the analysis:
 2. Ensure the dataset is in the correct directory.
 3. Run the Jupyter notebook to train the model.
 4. Use the Streamlit app to input mushroom features and predict edibility.
+5. Use Render to put in production
 
 ## Quickstart
 
